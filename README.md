@@ -1,3 +1,3 @@
-## verifica se o número é primo
+## check if the number is prime
 
 isPrime.js
