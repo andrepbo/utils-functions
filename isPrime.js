@@ -3,7 +3,7 @@ function isPrime(number) {
     return false;
   }
 
-  // Verifica se o número é divisível por qualquer número de 2 até a sua raiz quadrada
+  // Checks if the number is divisible by any number from 2 to its square root
   for (let i = 2; i <= Math.sqrt(number); i++) {
     if (number % i === 0) {
       return false;
