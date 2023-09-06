@@ -4,4 +4,8 @@ isPrime.js
 
 ### check how many prime numbers there are in a list of numbers
 
-countPrimes.js
+getCountPrimes.js
+
+### returns the current year
+
+currentYear.js
